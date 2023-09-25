@@ -1,0 +1,29 @@
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.csproj.AssemblyReference.cache
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.AssemblyInfoInputs.cache
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.AssemblyInfo.cs
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\bin\Debug\net6.0\ProjetoPizzaria.exe
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\bin\Debug\net6.0\ProjetoPizzaria.deps.json
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\bin\Debug\net6.0\ProjetoPizzaria.runtimeconfig.json
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\bin\Debug\net6.0\ProjetoPizzaria.dll
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\bin\Debug\net6.0\ProjetoPizzaria.pdb
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.dll
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\obj\Debug\net6.0\refint\ProjetoPizzaria.dll
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.pdb
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\obj\Debug\net6.0\ProjetoPizzaria.genruntimeconfig.cache
+C:\Users\elisa_schafer\Documents\PIZZA PROJECT\ProjetoPizzaria\obj\Debug\net6.0\ref\ProjetoPizzaria.dll
+C:\Users\Carlos\Downloads\ProjetoPizzaria-master\ProjetoPizzaria-master\obj\Debug\net6.0\ProjetoPizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Downloads\ProjetoPizzaria-master\ProjetoPizzaria-master\obj\Debug\net6.0\ProjetoPizzaria.AssemblyInfoInputs.cache
+C:\Users\Carlos\Downloads\ProjetoPizzaria-master\ProjetoPizzaria-master\obj\Debug\net6.0\ProjetoPizzaria.AssemblyInfo.cs
+C:\Users\Carlos\Downloads\ProjetoPizzaria-master\ProjetoPizzaria-master\obj\Debug\net6.0\ProjetoPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Downloads\ProjetoPizzaria-master\ProjetoPizzaria-master\obj\Debug\net6.0\ProjetoPizzaria.dll
+C:\Users\Carlos\Downloads\ProjetoPizzaria-master\ProjetoPizzaria-master\obj\Debug\net6.0\refint\ProjetoPizzaria.dll
+C:\Users\Carlos\Downloads\ProjetoPizzaria-master\ProjetoPizzaria-master\obj\Debug\net6.0\ProjetoPizzaria.pdb
+C:\Users\Carlos\Downloads\ProjetoPizzaria-master\ProjetoPizzaria-master\bin\Debug\net6.0\ProjetoPizzaria.exe
+C:\Users\Carlos\Downloads\ProjetoPizzaria-master\ProjetoPizzaria-master\bin\Debug\net6.0\ProjetoPizzaria.deps.json
+C:\Users\Carlos\Downloads\ProjetoPizzaria-master\ProjetoPizzaria-master\bin\Debug\net6.0\ProjetoPizzaria.runtimeconfig.json
+C:\Users\Carlos\Downloads\ProjetoPizzaria-master\ProjetoPizzaria-master\bin\Debug\net6.0\ProjetoPizzaria.dll
+C:\Users\Carlos\Downloads\ProjetoPizzaria-master\ProjetoPizzaria-master\bin\Debug\net6.0\ProjetoPizzaria.pdb
+C:\Users\Carlos\Downloads\ProjetoPizzaria-master\ProjetoPizzaria-master\obj\Debug\net6.0\ProjetoPizzaria.genruntimeconfig.cache
+C:\Users\Carlos\Downloads\ProjetoPizzaria-master\ProjetoPizzaria-master\obj\Debug\net6.0\ref\ProjetoPizzaria.dll
